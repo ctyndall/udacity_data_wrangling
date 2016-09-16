@@ -1,0 +1,4 @@
+Map Location:
+https://www.openstreetmap.org/#map=12/33.1830/-117.2571
+
+See description of this region in Project3.pdf file.

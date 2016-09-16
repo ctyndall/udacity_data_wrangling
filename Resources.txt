@@ -1,0 +1,2 @@
+maps.google.com
+	-I used maps.google.com to locate some lon/lat positions as a secondary source to verify some locations of unclean data
